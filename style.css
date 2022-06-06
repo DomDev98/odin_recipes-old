@@ -3,3 +3,22 @@ body {
     color: #505050;
     font-family: sans-serif;
 }
+
+div{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+}
+
+ol{
+    display: inline-block;
+}
+
+button{
+    background: #ccbfab;
+    color: #f1e7d8;
+    font-family: sans-serif;
+    font-size: 30px;
+}
